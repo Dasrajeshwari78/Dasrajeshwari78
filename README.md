@@ -68,8 +68,8 @@ I’m a developer who loves building **clean, user-friendly interfaces** and com
 
 ### 🌐 Frontend
 
-* 🔹 [Responsive Portfolio Website](https://github.com/Dasrajeshwari78)
-* 🔹 [Landing Page UI](https://github.com/Dasrajeshwari78)
+* 🔹 [BSKF Website](https://github.com/Dasrajeshwari78/bskf)
+* 🔹 [FarmCult Website](https://github.com/workdeployments/farmcult)
 
 ### 🎨 UI/UX
 
@@ -78,9 +78,8 @@ I’m a developer who loves building **clean, user-friendly interfaces** and com
 
 ### 🤖 AI / ML
 
-* 🔹 Data Analysis & Visualization Project
-* 🔹 Machine Learning Model (Scikit-learn)
-
+* 🔹 [Civic Pulse- AI Advanced Power civic complaint management and analytics platform. It bridges the gap between residents and city administrators by leveraging Generative AI to streamline issue reporting, cluster community problems, and provide actionable insights through real-time dashboards.](https://github.com/Dasrajeshwari78/civicPulse)
+  
 ---
 
 ## 📈 Contributions
