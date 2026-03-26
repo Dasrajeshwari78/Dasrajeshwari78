@@ -100,8 +100,8 @@ I’m a developer who loves building **clean, user-friendly interfaces** and com
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/rajeshwari-singidas-b66b08230
-* 📧 Email: [Rajeshwari.Singidas@outlook.com](mailto:Rajeshwari.Singidas@outlook.com)
+* 💼 LinkedIn: [](www.linkedin.com/in/rajeshwari-das)
+* 📧 Email: [rajeshwaridas78@gmail.com](mailto:rajeshwaridas78@gmail.com)
 
 ---
 
